@@ -10,7 +10,7 @@ BetterMotherFuckingWebsite cette popup.
 setTimeout(myPopUp,10000)
 function myPopUp() {
 
-	if (confirm("Hey le site xxxvidsxxx est trop bien. \
+	if (confirm("Hey le site xxxvidsxxx est trop bien.
 	Viens dessus stp please")) {
 	window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 	}
